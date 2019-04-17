@@ -14,6 +14,9 @@ public class UnaClase {
  System.out.println("Hola");
  }
  public void saludoChau(){
- System.out.println();
+ System.out.println("Chau");
+ }
+ public void hastaMañana(){
+     System.out.println("Hasta Mañana");
  }
 }
