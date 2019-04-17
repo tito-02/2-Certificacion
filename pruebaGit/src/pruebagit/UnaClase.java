@@ -10,5 +10,7 @@ package pruebagit;
  * @author programador
  */
 public class UnaClase {
- System.out.println("Hola");   
+ public void saludar(){
+ System.out.println("Hola");
+ }
 }
