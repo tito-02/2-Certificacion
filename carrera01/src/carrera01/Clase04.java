@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package carrera01;
 
 /**
  *
  * @author programador
  */
-public class clase2 {
-    
+public class Clase04 {
     
 }
